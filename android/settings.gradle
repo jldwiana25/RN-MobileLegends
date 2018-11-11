@@ -1,0 +1,3 @@
+rootProject.name = 'tararam_mobilelegends'
+
+include ':app'
